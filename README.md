@@ -10,7 +10,7 @@ python pandas binance cryptocurrency analysis - biggest percentage movers - 24 h
 7. pip install psycopg2-binary
 8. pip freeze > requirements.txt
 
-
+```s
 TKOUSDT      0.705085
 YFIIUSDT     0.465484
 NMRUSDT      0.375328
@@ -32,3 +32,4 @@ YFIUSDT      0.069681
 CTXCUSDT     0.068660
 CRVUSDT      0.066563
 dtype: float64
+```
